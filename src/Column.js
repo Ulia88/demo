@@ -7,7 +7,6 @@ import Task from './Task';
 function Column(props) {
     const {tasks, changeTaskStatus, column, deleteTask} = props
 
-
     return (
 
         <div>
