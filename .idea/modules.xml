@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cra12kanban.iml" filepath="$PROJECT_DIR$/.idea/cra12kanban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mykanban/.idea/mykanban.iml" filepath="$PROJECT_DIR$/../mykanban/.idea/mykanban.iml" />
     </modules>
   </component>
 </project>
